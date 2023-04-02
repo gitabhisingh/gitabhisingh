@@ -5,9 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import { HighlightCardComponent } from './highlight-card/highlight-card.component';
-import { ResourcesComponent } from './resources/resources.component';
 import { SkillsComponent } from './skills/skills.component';
-import { TerminalComponent } from './terminal/terminal.component';
 import { LinksComponent } from './links/links.component';
 import { FooterComponent } from './footer/footer.component';
 
@@ -16,9 +14,7 @@ import { FooterComponent } from './footer/footer.component';
     AppComponent,
     ToolbarComponent,
     HighlightCardComponent,
-    ResourcesComponent,
     SkillsComponent,
-    TerminalComponent,
     LinksComponent,
     FooterComponent
   ],

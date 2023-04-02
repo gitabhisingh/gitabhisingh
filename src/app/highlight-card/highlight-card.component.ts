@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-highlight-card',
@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./highlight-card.component.scss']
 })
 export class HighlightCardComponent {
-
+  @Input() title ='';
 }
