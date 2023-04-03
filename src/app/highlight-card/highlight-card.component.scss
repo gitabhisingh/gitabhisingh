@@ -7,6 +7,10 @@ svg.material-icons:not(:last-child) {
   margin-right: 8px;
 }
 
+h2, p{
+  text-align: center;
+}
+
 .card svg.material-icons path {
   fill: #888;
 }
@@ -68,7 +72,15 @@ svg.material-icons:not(:last-child) {
 }
 
 .card.card.highlight-card span {
-  margin-left: 60px;
+  margin-left: 20px;
+}
+
+.card.card.highlight-card span > a {
+  color: white
+}
+
+.card.card.highlight-card span > a:hover {
+  color: rgb(197, 197, 197)
 }
 
 svg#rocket {
