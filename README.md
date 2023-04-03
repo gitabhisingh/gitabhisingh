@@ -2,7 +2,7 @@
 
 ### 🔭 My portfolio - ✨ [Git Abhi Singh](https://gitabhisingh.com/) ✨
 
-Championing open source for a better world🌎!
+Championing open source for a better world!
 
 📈 My Github Stats: 
 
