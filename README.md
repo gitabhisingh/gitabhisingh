@@ -2,7 +2,7 @@
 
 ### 🔭 My portfolio - ✨ [Git Abhi Singh](https://gitabhisingh.com/) ✨
 
-Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=gitabhisingh.gitabhisingh)
+Championing open source for a better world🌎!
 
 📈 My Github Stats: 
 
