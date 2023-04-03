@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My portfolio: https://vercel.com/gitabhisingh/gitabhisingh-portfolio
+My portfolio: https://gitabhisingh-portfolio.vercel.app/
 
 <!--
 **gitabhisingh/gitabhisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
