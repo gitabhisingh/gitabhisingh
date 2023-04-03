@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My portfolio: [https://gitabhisingh.com/](Git Abhi Singh)
+My portfolio: [Git Abhi Singh](https://gitabhisingh.com/)
 
 <!--
 **gitabhisingh/gitabhisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
